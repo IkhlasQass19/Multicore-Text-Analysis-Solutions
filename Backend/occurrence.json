@@ -1,0 +1,47 @@
+{
+"results": [
+{
+"Thread 0": [
+{"ihssan": 84},
+{"ikhlas": 150},
+{"hey": 70},
+{"oumnia": 76},
+{"hello": 72},
+{"hassoun": 71}]
+},
+{
+"Thread 1": [
+{"ikhlas": 147},
+{"hey": 80},
+{"hassoun": 84},
+{"hello": 79},
+{"oumnia": 82},
+{"ihssan": 72}]
+},
+{
+"Thread 2": [
+{"hello": 85},
+{"ikhlas": 167},
+{"oumnia": 79},
+{"ihssan": 89},
+{"hey": 95},
+{"hassoun": 82}]
+},
+{
+"Thread 3": [
+{"hassoun": 82},
+{"ihssan": 74},
+{"ikhlas": 174},
+{"hey": 74},
+{"hello": 83},
+{"oumnia": 82}]
+}
+],
+"FinalResult": [
+{"ihssan": 319},
+{"ikhlas": 638},
+{"hey": 319},
+{"oumnia": 319},
+{"hello": 319},
+{"hassoun": 319}]
+}
